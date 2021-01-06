@@ -10,6 +10,7 @@ def main():
     print('UFO came and added this line')
     print('Yandexlyceum')
     my_superfunction()
+    return
 
 
 if __name__ == '__main__':
